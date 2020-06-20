@@ -46,7 +46,7 @@ CpGIslandHMM - CpG island prediction with Hidden Markov Models, Viterbi and Baum
 
 The MIT License (MIT)
 
-Copyright (c) 2019 Thierry Grimm
+Copyright (c) 2020 Thierry Grimm
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software ("CpGIslandHMM") and associated documentation files (the "Software"), to deal
