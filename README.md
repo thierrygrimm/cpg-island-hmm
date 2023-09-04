@@ -22,7 +22,7 @@
     <li>
       <a href="#sections">Sections</a>
       <ul>
-        <li><a href="#hidden-markov-model-&-viterbi-algorithm">Hidden Markov Model & Viterbi algorithm</a></li>
+        <li><a href="#hidden-markov-model-viterbi-algorithm">Hidden Markov Model & Viterbi algorithm</a></li>
         <li><a href="#baum-welch-algorithm">Baum Welch algorithm</a></li>
       </ul>
     </li>
