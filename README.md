@@ -9,6 +9,29 @@
 [![](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white 'Pandas')](https://pandas.pydata.org)
 </div>
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#project-description">Project description</a>
+      <ul>
+        <li><a href="#parts">Parts</a></li>
+        <li><a href="#biochemical-foundations">Biochemical Foundations</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#sections">Sections</a>
+      <ul>
+        <li><a href="#hidden-markov-model-&-viterbi-algorithm">Hidden Markov Model & Viterbi algorithm</a></li>
+        <li><a href="#baum-welch-algorithm">Baum Welch algorithm</a></li>
+      </ul>
+    </li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#issues">Issues</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+
 ## Project description
 
 CpGIslandHMM predicts CpG islands with Hidden Markov Models (HMMs), the Viterbi, and the Baum-Welch algorithm.
@@ -55,6 +78,10 @@ makes use of the forward-backward algorithm to compute the statistics for our ex
 <p align="center">
   <img src="Images/BaumWelch.png">
 </p>
+
+## Acknowledgments
+
+* The dataset was kindly received from department of Computational Biology at the University of Basel
 
 ## Issues
 
